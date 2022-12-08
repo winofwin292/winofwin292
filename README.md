@@ -6,7 +6,6 @@
 - 📫 How to reach me winofwin292@gmail.com
 - ⚡ Fun fact **I am passionate about coding but my English is very bad.**
 
-
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/winofwin292?label=Follow%20Me&style=social)](https://github.com/winofwin292)
 
 <br>
@@ -31,8 +30,6 @@
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-
-<br>
 <!-- GitHub Stats -->
 <table>
   <tr>
@@ -44,8 +41,8 @@
    </td>
  </tr>
 </table>
-<br>
 
+<!-- GitHub Contribution Grid Snake -->
 <p align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/winofwin292/winofwin292/blob/output/github-contribution-grid-snake-dark.svg">
@@ -53,9 +50,8 @@
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   </picture>
 </p>
-  
-<br>
 
+<!-- Count Visitor -->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/winofwin292/count.svg" />
